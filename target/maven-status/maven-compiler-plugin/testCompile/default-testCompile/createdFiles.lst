@@ -1,0 +1,10 @@
+com/sf/tests/LoginPageTest.class
+com/sf/tests/HomePageTest.class
+com/sf/tests/ForgotPasswordTest.class
+com/sf/tests/ProfilePageTest.class
+com/sf/pages/poAccountsPage.class
+com/sf/pages/poProfilePage.class
+com/sf/pages/poHomePage.class
+com/sf/tests/AccountsPageTest.class
+com/sf/pages/poLoginPage.class
+com/sf/pages/poForgotPasswordPage.class

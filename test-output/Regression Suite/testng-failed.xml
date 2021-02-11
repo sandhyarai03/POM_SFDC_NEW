@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <parameter name="value" value="${Environment}"/>
+  <test name="login(failed)">
+    <classes>
+      <class name="com.sf.tests.ProfilePageTest">
+        <methods>
+          <include name="TriggerDependencies"/>
+          <include name="settingReqURL"/>
+          <include name="TC6_verifyUserEditProfileFunctionality"/>
+          <include name="ShuttingDownAllDependencies"/>
+          <include name="settingUpEnvironment"/>
+        </methods>
+      </class> <!-- com.sf.tests.ProfilePageTest -->
+    </classes>
+  </test> <!-- login(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

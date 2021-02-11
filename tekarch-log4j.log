@@ -1,0 +1,637 @@
+2021-02-08 11:35:54 INFO  CommonUtilities 55 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/fs/properties/testdata.properties
+2021-02-08 11:35:54 INFO  CommonUtilities 122 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-08 11:35:54 INFO  LoginPageTest 42 - web
+2021-02-08 11:35:54 INFO  LoginPageTest 43 - qa
+2021-02-08 11:35:54 INFO  BrowserUtilities 36 - Launching Browser
+2021-02-08 11:35:56 INFO  BrowserUtilities 76 - Element Displayed : [[ChromeDriver: chrome on MAC (a0ffe96410cfd742721e7d3cc86d83a8)] -> xpath: //input[@id='username']]
+2021-02-08 11:36:00 INFO  BrowserUtilities 76 - Element Displayed : [[ChromeDriver: chrome on MAC (a0ffe96410cfd742721e7d3cc86d83a8)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-08 11:36:01 INFO  BrowserUtilities 113 - Displayed [[ChromeDriver: chrome on MAC (a0ffe96410cfd742721e7d3cc86d83a8)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-08 11:36:01 INFO  LoginPageTest 43 - loginToSFDCWithValidCredentials PASSED
+2021-02-08 22:10:30 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-08 22:10:30 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-08 22:10:30 INFO  LoginPageTest 39 - web
+2021-02-08 22:10:30 INFO  LoginPageTest 40 - qa
+2021-02-08 22:10:30 INFO  BrowserUtilities 44 - Launching Browser
+2021-02-08 22:10:33 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (8e8475e49fc9acf9b07ce30f990c10e6)] -> xpath: //input[@id='username']]
+2021-02-08 22:10:38 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (8e8475e49fc9acf9b07ce30f990c10e6)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-08 22:10:38 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (8e8475e49fc9acf9b07ce30f990c10e6)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-08 22:10:38 INFO  LoginPageTest 43 - loginToSFDCWithValidCredentials PASSED
+2021-02-09 07:01:17 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 07:01:17 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 07:01:17 INFO  LoginPageTest 39 - web
+2021-02-09 07:01:17 INFO  LoginPageTest 40 - qa
+2021-02-09 07:01:17 INFO  BrowserUtilities 44 - Launching Browser
+2021-02-09 07:01:20 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (60816dc9962e8be4a71abc5505a6db54)] -> xpath: //input[@id='username']]
+2021-02-09 07:01:21 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (60816dc9962e8be4a71abc5505a6db54)] -> id: error]
+2021-02-09 07:01:21 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (60816dc9962e8be4a71abc5505a6db54)] -> id: error]
+2021-02-09 07:01:21 INFO  LoginPageTest 41 - TC01_LoginErrorMessage() PASSED
+2021-02-09 07:01:21 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (60816dc9962e8be4a71abc5505a6db54)] -> xpath: //input[@id='username']]
+2021-02-09 07:01:25 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (60816dc9962e8be4a71abc5505a6db54)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 07:01:25 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (60816dc9962e8be4a71abc5505a6db54)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 07:01:25 INFO  LoginPageTest 47 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 08:15:07 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 08:15:07 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 08:15:07 INFO  LoginPageTest 39 - web
+2021-02-09 08:15:07 INFO  LoginPageTest 40 - qa
+2021-02-09 08:15:07 INFO  BrowserUtilities 44 - Launching Browser
+2021-02-09 08:15:10 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (5a88ee79905c5e5aa8e2813de197bad1)] -> xpath: //input[@id='username']]
+2021-02-09 08:15:11 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (5a88ee79905c5e5aa8e2813de197bad1)] -> id: error]
+2021-02-09 08:15:11 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (5a88ee79905c5e5aa8e2813de197bad1)] -> id: error]
+2021-02-09 08:15:11 INFO  LoginPageTest 41 - TC01_LoginErrorMessage() PASSED
+2021-02-09 08:15:11 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (5a88ee79905c5e5aa8e2813de197bad1)] -> xpath: //input[@id='username']]
+2021-02-09 08:15:15 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (5a88ee79905c5e5aa8e2813de197bad1)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 08:15:15 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (5a88ee79905c5e5aa8e2813de197bad1)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 08:15:15 INFO  LoginPageTest 47 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 09:12:24 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 09:12:24 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 09:12:24 INFO  LoginPageTest 39 - web
+2021-02-09 09:12:24 INFO  LoginPageTest 40 - qa
+2021-02-09 09:12:24 INFO  BrowserUtilities 44 - Launching Browser
+2021-02-09 09:12:27 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //input[@id='username']]
+2021-02-09 09:12:28 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> id: error]
+2021-02-09 09:12:28 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> id: error]
+2021-02-09 09:12:28 INFO  LoginPageTest 41 - TC01_LoginErrorMessage() PASSED
+2021-02-09 09:12:29 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //input[@id='username']]
+2021-02-09 09:12:36 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:12:36 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:12:36 INFO  LoginPageTest 47 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 09:12:36 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //input[@id='username']]
+2021-02-09 09:12:39 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:12:39 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:12:39 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2dc790a2da7ac651d9af6b4a0770c05e)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:16:31 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 09:16:31 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 09:16:31 INFO  LoginPageTest 39 - web
+2021-02-09 09:16:31 INFO  LoginPageTest 40 - qa
+2021-02-09 09:16:31 INFO  BrowserUtilities 44 - Launching Browser
+2021-02-09 09:16:34 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> xpath: //input[@id='username']]
+2021-02-09 09:16:35 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> id: error]
+2021-02-09 09:16:35 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> id: error]
+2021-02-09 09:16:35 INFO  LoginPageTest 41 - TC01_LoginErrorMessage() PASSED
+2021-02-09 09:16:35 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> xpath: //input[@id='username']]
+2021-02-09 09:16:39 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:16:39 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:16:39 INFO  LoginPageTest 47 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 09:16:40 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> xpath: //input[@id='username']]
+2021-02-09 09:16:42 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:16:42 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (d2255797586db904e682266c8b9bba55)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:18:27 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 09:18:27 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 09:18:27 INFO  LoginPageTest 39 - web
+2021-02-09 09:18:27 INFO  LoginPageTest 40 - qa
+2021-02-09 09:18:27 INFO  BrowserUtilities 44 - Launching Browser
+2021-02-09 09:18:29 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> xpath: //input[@id='username']]
+2021-02-09 09:18:30 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> id: error]
+2021-02-09 09:18:31 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> id: error]
+2021-02-09 09:18:31 INFO  LoginPageTest 41 - TC01_LoginErrorMessage() PASSED
+2021-02-09 09:18:31 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> xpath: //input[@id='username']]
+2021-02-09 09:18:35 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:18:35 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:18:35 INFO  LoginPageTest 47 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 09:18:35 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> xpath: //input[@id='username']]
+2021-02-09 09:18:37 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 09:18:37 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (496a5d1b41a41f97e2607dd7ade66d91)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:21:47 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:21:47 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:21:47 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:21:47 INFO  LoginPageTest 40 - web
+2021-02-09 16:21:47 INFO  LoginPageTest 41 - qa
+2021-02-09 16:21:47 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:21:53 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d87b0e46d324a3b4ac321860e5dd6d7d)] -> xpath: //input[@id='username']]
+2021-02-09 16:21:54 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d87b0e46d324a3b4ac321860e5dd6d7d)] -> id: error]
+2021-02-09 16:21:54 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (d87b0e46d324a3b4ac321860e5dd6d7d)] -> id: error]
+2021-02-09 16:21:54 INFO  LoginPageTest 44 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:21:55 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d87b0e46d324a3b4ac321860e5dd6d7d)] -> xpath: //input[@id='username']]
+2021-02-09 16:22:00 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d87b0e46d324a3b4ac321860e5dd6d7d)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:22:05 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d87b0e46d324a3b4ac321860e5dd6d7d)] -> xpath: //input[@id='username']]
+2021-02-09 16:22:09 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d87b0e46d324a3b4ac321860e5dd6d7d)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:25:41 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:25:41 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:25:41 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:25:41 INFO  LoginPageTest 40 - web
+2021-02-09 16:25:41 INFO  LoginPageTest 41 - qa
+2021-02-09 16:25:41 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:25:44 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (15529c9b0f978f79656fce9318448287)] -> xpath: //input[@id='username']]
+2021-02-09 16:25:45 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (15529c9b0f978f79656fce9318448287)] -> id: error]
+2021-02-09 16:25:45 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (15529c9b0f978f79656fce9318448287)] -> id: error]
+2021-02-09 16:25:45 INFO  LoginPageTest 44 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:25:45 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (15529c9b0f978f79656fce9318448287)] -> xpath: //input[@id='username']]
+2021-02-09 16:25:50 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (15529c9b0f978f79656fce9318448287)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:25:51 INFO  LoginPageTest 52 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 16:25:51 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (15529c9b0f978f79656fce9318448287)] -> xpath: //input[@id='username']]
+2021-02-09 16:25:53 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (15529c9b0f978f79656fce9318448287)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:30:15 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:30:15 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:30:15 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:30:15 INFO  LoginPageTest 40 - web
+2021-02-09 16:30:15 INFO  LoginPageTest 41 - qa
+2021-02-09 16:30:15 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:30:18 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2014d9927711212e0135776633e3044f)] -> xpath: //input[@id='username']]
+2021-02-09 16:30:19 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2014d9927711212e0135776633e3044f)] -> id: error]
+2021-02-09 16:30:19 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (2014d9927711212e0135776633e3044f)] -> id: error]
+2021-02-09 16:30:19 INFO  LoginPageTest 44 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:30:19 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2014d9927711212e0135776633e3044f)] -> xpath: //input[@id='username']]
+2021-02-09 16:30:24 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2014d9927711212e0135776633e3044f)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:30:24 INFO  LoginPageTest 52 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 16:30:24 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2014d9927711212e0135776633e3044f)] -> xpath: //input[@id='username']]
+2021-02-09 16:30:26 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2014d9927711212e0135776633e3044f)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:32:43 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:32:43 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:32:43 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:32:43 INFO  LoginPageTest 40 - web
+2021-02-09 16:32:43 INFO  LoginPageTest 41 - qa
+2021-02-09 16:32:43 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:32:45 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (f05e6f5ee181c335175c0ee58fd1ac90)] -> xpath: //input[@id='username']]
+2021-02-09 16:32:46 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (f05e6f5ee181c335175c0ee58fd1ac90)] -> id: error]
+2021-02-09 16:32:46 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (f05e6f5ee181c335175c0ee58fd1ac90)] -> id: error]
+2021-02-09 16:32:46 INFO  LoginPageTest 44 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:32:46 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (f05e6f5ee181c335175c0ee58fd1ac90)] -> xpath: //input[@id='username']]
+2021-02-09 16:32:51 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (f05e6f5ee181c335175c0ee58fd1ac90)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:32:51 INFO  LoginPageTest 52 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 16:32:51 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (f05e6f5ee181c335175c0ee58fd1ac90)] -> xpath: //input[@id='username']]
+2021-02-09 16:32:53 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (f05e6f5ee181c335175c0ee58fd1ac90)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:36:56 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:36:56 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:36:56 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:36:56 INFO  LoginPageTest 40 - web
+2021-02-09 16:36:56 INFO  LoginPageTest 41 - qa
+2021-02-09 16:36:56 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:36:59 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2f816d8d0fc1e7b9948f545d608f4bc9)] -> xpath: //input[@id='username']]
+2021-02-09 16:36:59 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2f816d8d0fc1e7b9948f545d608f4bc9)] -> id: error]
+2021-02-09 16:37:00 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (2f816d8d0fc1e7b9948f545d608f4bc9)] -> id: error]
+2021-02-09 16:37:00 INFO  LoginPageTest 44 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:37:00 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2f816d8d0fc1e7b9948f545d608f4bc9)] -> xpath: //input[@id='username']]
+2021-02-09 16:37:04 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2f816d8d0fc1e7b9948f545d608f4bc9)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:37:04 INFO  LoginPageTest 52 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 16:37:04 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2f816d8d0fc1e7b9948f545d608f4bc9)] -> xpath: //input[@id='username']]
+2021-02-09 16:37:07 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (2f816d8d0fc1e7b9948f545d608f4bc9)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:39:39 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:39:39 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:39:39 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:39:39 INFO  LoginPageTest 40 - web
+2021-02-09 16:39:39 INFO  LoginPageTest 41 - qa
+2021-02-09 16:39:39 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:39:42 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> xpath: //input[@id='username']]
+2021-02-09 16:39:43 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> id: error]
+2021-02-09 16:39:43 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> id: error]
+2021-02-09 16:39:43 INFO  LoginPageTest 44 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:39:43 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> xpath: //input[@id='username']]
+2021-02-09 16:39:48 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:39:48 INFO  LoginPageTest 52 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 16:39:49 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> xpath: //input[@id='username']]
+2021-02-09 16:39:54 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:39:54 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd0ba0f0f4e24bda49d1404b00c445a5)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:53:33 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:53:33 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:53:33 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:53:33 INFO  LoginPageTest 40 - web
+2021-02-09 16:53:33 INFO  LoginPageTest 41 - qa
+2021-02-09 16:53:33 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:53:35 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> xpath: //input[@id='username']]
+2021-02-09 16:53:36 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> id: error]
+2021-02-09 16:53:36 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> id: error]
+2021-02-09 16:53:36 INFO  LoginPageTest 48 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:53:36 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> xpath: //input[@id='username']]
+2021-02-09 16:53:42 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:53:42 INFO  LoginPageTest 56 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 16:53:42 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> xpath: //input[@id='username']]
+2021-02-09 16:53:44 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:53:44 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (c0fccd64cb7163cf28c0ae7faba8c585)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:58:52 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 16:58:52 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 16:58:52 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 16:58:52 INFO  LoginPageTest 40 - web
+2021-02-09 16:58:52 INFO  LoginPageTest 41 - qa
+2021-02-09 16:58:52 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 16:58:54 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> xpath: //input[@id='username']]
+2021-02-09 16:58:55 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> id: error]
+2021-02-09 16:58:55 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> id: error]
+2021-02-09 16:58:55 INFO  LoginPageTest 48 - TC01_LoginErrorMessage() PASSED
+2021-02-09 16:58:56 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> xpath: //input[@id='username']]
+2021-02-09 16:59:00 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:59:00 INFO  LoginPageTest 56 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 16:59:00 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> xpath: //input[@id='username']]
+2021-02-09 16:59:02 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:59:02 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 16:59:04 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (23f7d403f9a3067e6e3d8f9bb6be55d6)] -> xpath: //input[@id='username']]
+2021-02-09 16:59:04 INFO  LoginPageTest 68 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-09 18:36:09 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 18:36:09 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 18:36:09 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 18:36:09 INFO  LoginPageTest 40 - web
+2021-02-09 18:36:09 INFO  LoginPageTest 41 - qa
+2021-02-09 18:36:09 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 18:39:25 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 18:39:25 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 18:39:25 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 18:39:25 INFO  LoginPageTest 40 - web
+2021-02-09 18:39:25 INFO  LoginPageTest 41 - qa
+2021-02-09 18:39:25 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 18:39:32 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 18:39:33 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:34 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:34 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:35 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:35 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:36 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:37 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:37 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:38 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:39:38 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3202ff2ef21204387d0195a00b4747e4)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:01 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 18:41:01 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 18:41:01 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 18:41:01 INFO  LoginPageTest 40 - web
+2021-02-09 18:41:01 INFO  LoginPageTest 41 - qa
+2021-02-09 18:41:01 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 18:41:09 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 18:41:10 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:10 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:11 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:11 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:12 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:13 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:13 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:14 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:14 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:41:15 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (3f8440bb39dfed2c0e47320cab3ccd8c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:37 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 18:50:37 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 18:50:37 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 18:50:37 INFO  LoginPageTest 40 - web
+2021-02-09 18:50:37 INFO  LoginPageTest 41 - qa
+2021-02-09 18:50:37 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 18:50:44 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 18:50:45 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:46 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:47 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:47 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:48 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:48 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:49 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:49 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:50 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:50:50 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (74ecce3d65b6debd2354a2e937158b9c)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:04 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 18:54:04 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 18:54:04 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 18:54:04 INFO  LoginPageTest 40 - web
+2021-02-09 18:54:04 INFO  LoginPageTest 41 - qa
+2021-02-09 18:54:04 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 18:54:12 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 18:54:13 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:13 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:14 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:14 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:15 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:16 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:16 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:17 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:54:17 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (7ef6aaf28e9ce90d43edf2168f233f6d)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:13 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 18:57:13 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 18:57:13 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 18:57:13 INFO  LoginPageTest 40 - web
+2021-02-09 18:57:13 INFO  LoginPageTest 41 - qa
+2021-02-09 18:57:13 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 18:57:20 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 18:57:21 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:22 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:22 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:23 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:23 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:24 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:24 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:25 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:25 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:57:26 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (1a16459891e21b9f9c6013fbfdfcfe18)] -> xpath: //input[@id='username']]
+2021-02-09 18:59:04 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 18:59:04 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 18:59:04 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 18:59:04 INFO  LoginPageTest 40 - web
+2021-02-09 18:59:04 INFO  LoginPageTest 41 - qa
+2021-02-09 18:59:04 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 18:59:13 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (b741ef57e6d678c6aae95e323ba2fd26)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 18:59:16 INFO  LoginPageTest 79 - TC3_rememberMeChkBox PASSED
+2021-02-09 19:00:31 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 19:00:31 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 19:00:31 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 19:00:31 INFO  LoginPageTest 40 - web
+2021-02-09 19:00:31 INFO  LoginPageTest 41 - qa
+2021-02-09 19:00:31 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 19:00:38 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (33b2cf003fb0ac822bce9266b847e25b)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-09 19:00:40 INFO  LoginPageTest 79 - TC3_rememberMeChkBox PASSED
+2021-02-09 23:34:35 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 23:34:35 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 23:34:35 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 23:34:35 INFO  LoginPageTest 40 - web
+2021-02-09 23:34:35 INFO  LoginPageTest 41 - qa
+2021-02-09 23:34:35 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 23:43:04 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 23:43:04 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 23:43:04 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 23:43:04 INFO  LoginPageTest 40 - web
+2021-02-09 23:43:04 INFO  LoginPageTest 41 - qa
+2021-02-09 23:43:04 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 23:44:08 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 23:44:08 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 23:44:08 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 23:44:08 INFO  LoginPageTest 40 - web
+2021-02-09 23:44:08 INFO  LoginPageTest 41 - qa
+2021-02-09 23:44:08 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 23:45:49 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 23:45:49 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 23:45:49 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 23:45:49 INFO  ForgotPasswordTest 40 - web
+2021-02-09 23:45:49 INFO  ForgotPasswordTest 41 - qa
+2021-02-09 23:45:49 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 23:47:14 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 23:47:14 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 23:47:14 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 23:47:14 INFO  ForgotPasswordTest 40 - web
+2021-02-09 23:47:14 INFO  ForgotPasswordTest 41 - qa
+2021-02-09 23:47:14 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 23:50:02 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 23:50:02 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 23:50:02 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 23:50:02 INFO  ForgotPasswordTest 40 - web
+2021-02-09 23:50:02 INFO  ForgotPasswordTest 41 - qa
+2021-02-09 23:50:02 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 23:50:05 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (cd6124d2870fffbe3649d4c90397c1ba)] -> xpath: //input[@id='username']]
+2021-02-09 23:53:49 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-09 23:53:49 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-09 23:53:49 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-09 23:53:49 INFO  ForgotPasswordTest 40 - web
+2021-02-09 23:53:49 INFO  ForgotPasswordTest 41 - qa
+2021-02-09 23:53:49 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-09 23:53:51 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (7b592b75e281f8b6007d0b3b75308940)] -> xpath: //input[@id='username']]
+2021-02-10 00:00:03 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 00:00:03 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 00:00:03 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 00:00:03 INFO  ForgotPasswordTest 40 - web
+2021-02-10 00:00:03 INFO  ForgotPasswordTest 41 - qa
+2021-02-10 00:00:03 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-10 00:00:06 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (3f0072cdfb637643346341db55385353)] -> xpath: //input[@id='username']]
+2021-02-10 00:02:00 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 00:02:00 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 00:02:00 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 00:02:00 INFO  ForgotPasswordTest 40 - web
+2021-02-10 00:02:00 INFO  ForgotPasswordTest 41 - qa
+2021-02-10 00:02:00 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-10 00:02:02 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (4ebbdd4877d69711e970b99978e0f37d)] -> xpath: //input[@id='username']]
+2021-02-10 00:30:37 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 00:30:37 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 00:30:37 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 00:30:37 INFO  LoginPageTest 40 - web
+2021-02-10 00:30:37 INFO  LoginPageTest 41 - qa
+2021-02-10 00:30:37 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-10 00:30:40 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (60559551b246adeafbc1ce94bbdc6108)] -> xpath: //input[@id='username']]
+2021-02-10 00:32:39 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 00:32:39 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 00:32:39 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 00:32:39 INFO  LoginPageTest 40 - web
+2021-02-10 00:32:39 INFO  LoginPageTest 41 - qa
+2021-02-10 00:32:39 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-10 00:32:41 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (f89f2a6ef359908458aae2ba8120e436)] -> xpath: //input[@id='username']]
+2021-02-10 00:35:14 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 00:35:14 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 00:35:14 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 00:35:14 INFO  LoginPageTest 40 - web
+2021-02-10 00:35:14 INFO  LoginPageTest 41 - qa
+2021-02-10 00:35:14 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-10 00:35:17 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (12feb5eebdbbb607f1dd27d65130bfcd)] -> xpath: //input[@id='username']]
+2021-02-10 07:10:12 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 07:10:12 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 07:10:12 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 07:10:12 INFO  ForgotPasswordTest 40 - web
+2021-02-10 07:10:12 INFO  ForgotPasswordTest 41 - qa
+2021-02-10 07:10:12 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-10 07:10:16 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (93ac75a43db841de683e9a6768bce69b)] -> xpath: //input[@id='username']]
+2021-02-10 07:10:17 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (93ac75a43db841de683e9a6768bce69b)] -> xpath: //input[@id='username']]
+2021-02-10 07:10:18 INFO  LoginPageTest 92 - TC4_B_LoginToSFDCWithInvalidUserNamePassword
+2021-02-10 07:13:44 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 07:13:44 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 07:13:44 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 07:13:44 INFO  LoginPageTest 40 - web
+2021-02-10 07:13:44 INFO  LoginPageTest 41 - qa
+2021-02-10 07:13:44 INFO  BrowserUtilities 40 - Launching Browser
+2021-02-10 07:13:47 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:13:48 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> id: error]
+2021-02-10 07:13:48 INFO  BrowserUtilities 121 - Displayed [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> id: error]
+2021-02-10 07:13:48 INFO  LoginPageTest 49 - TC01_LoginErrorMessage() PASSED
+2021-02-10 07:13:48 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:13:52 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 07:13:52 INFO  LoginPageTest 57 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-10 07:13:53 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:13:58 INFO  BrowserUtilities 84 - Element Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 07:14:01 INFO  LoginPageTest 80 - TC4_A_rememberMeChkBox PASSED
+2021-02-10 07:14:01 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:01 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:02 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:03 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:03 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:04 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:04 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:05 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:05 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:06 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:14:06 INFO  BrowserUtilities 87 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (d8d7db9e6742feb7c0ea916088d280c2)] -> xpath: //input[@id='username']]
+2021-02-10 07:38:55 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 07:38:55 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 07:38:55 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 07:38:55 INFO  HomePageTest 40 - web
+2021-02-10 07:38:55 INFO  HomePageTest 41 - qa
+2021-02-10 07:38:55 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 07:38:57 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (bdca13d385ac519bc427a4703e1b28df)] -> xpath: //input[@id='username']]
+2021-02-10 07:39:02 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (bdca13d385ac519bc427a4703e1b28df)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:02:28 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:02:28 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:02:28 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:02:28 INFO  HomePageTest 40 - web
+2021-02-10 08:02:28 INFO  HomePageTest 41 - qa
+2021-02-10 08:02:28 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:02:30 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (7e26e013ade39109391541d33094258a)] -> xpath: //input[@id='username']]
+2021-02-10 08:02:39 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (7e26e013ade39109391541d33094258a)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:05:22 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:05:22 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:05:22 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:05:22 INFO  HomePageTest 40 - web
+2021-02-10 08:05:22 INFO  HomePageTest 41 - qa
+2021-02-10 08:05:22 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:05:24 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (41734be7f6e9a2d0200ab3fb8c967e64)] -> xpath: //input[@id='username']]
+2021-02-10 08:05:30 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (41734be7f6e9a2d0200ab3fb8c967e64)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:07:33 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:07:33 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:07:33 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:07:33 INFO  HomePageTest 40 - web
+2021-02-10 08:07:33 INFO  HomePageTest 41 - qa
+2021-02-10 08:07:33 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:07:36 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (34cb48ce4524e45693567fca4bc14066)] -> xpath: //input[@id='username']]
+2021-02-10 08:07:41 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (34cb48ce4524e45693567fca4bc14066)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:12:34 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:12:34 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:12:34 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:12:34 INFO  HomePageTest 40 - web
+2021-02-10 08:12:34 INFO  HomePageTest 41 - qa
+2021-02-10 08:12:34 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:12:37 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (7054d6d0e80b639e839d6b2cee89fae3)] -> xpath: //input[@id='username']]
+2021-02-10 08:12:43 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (7054d6d0e80b639e839d6b2cee89fae3)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:15:06 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:15:06 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:15:06 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:15:06 INFO  HomePageTest 40 - web
+2021-02-10 08:15:06 INFO  HomePageTest 41 - qa
+2021-02-10 08:15:06 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:15:08 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (4f7226f517d5f51eb3eeab9a6c2a28c7)] -> xpath: //input[@id='username']]
+2021-02-10 08:15:13 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (4f7226f517d5f51eb3eeab9a6c2a28c7)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:15:13 INFO  poHomePage 61 - My Profile found
+2021-02-10 08:15:13 INFO  poHomePage 61 - My Settings found
+2021-02-10 08:15:13 INFO  poHomePage 61 - Developer Console found
+2021-02-10 08:15:13 INFO  poHomePage 61 - Switch to Lightning Experience found
+2021-02-10 08:15:13 INFO  poHomePage 61 - Logout found
+2021-02-10 08:16:50 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:16:50 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:16:50 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:16:50 INFO  HomePageTest 40 - web
+2021-02-10 08:16:50 INFO  HomePageTest 41 - qa
+2021-02-10 08:16:50 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:16:53 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (c5219831f4e38d5f69ce97ad3a0cbe6f)] -> xpath: //input[@id='username']]
+2021-02-10 08:16:57 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (c5219831f4e38d5f69ce97ad3a0cbe6f)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:16:57 INFO  poHomePage 61 - My Profile found
+2021-02-10 08:16:57 INFO  poHomePage 61 - My Settings found
+2021-02-10 08:16:57 INFO  poHomePage 61 - Developer Console found
+2021-02-10 08:16:57 INFO  poHomePage 61 - Switch to Lightning Experience found
+2021-02-10 08:16:57 INFO  poHomePage 61 - Logout found
+2021-02-10 08:17:55 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:17:55 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:17:55 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:17:55 INFO  HomePageTest 40 - web
+2021-02-10 08:17:55 INFO  HomePageTest 41 - qa
+2021-02-10 08:17:55 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:17:58 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (ab6f4abf2a2fef31f89cd515f76b68a9)] -> xpath: //input[@id='username']]
+2021-02-10 08:18:02 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (ab6f4abf2a2fef31f89cd515f76b68a9)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:18:02 INFO  poHomePage 61 - My Profile found
+2021-02-10 08:18:02 INFO  poHomePage 61 - My Settings found
+2021-02-10 08:18:03 INFO  poHomePage 61 - Developer Console found
+2021-02-10 08:18:03 INFO  poHomePage 61 - Switch to Lightning Experience found
+2021-02-10 08:18:03 INFO  poHomePage 61 - Logout found
+2021-02-10 08:18:05 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (ab6f4abf2a2fef31f89cd515f76b68a9)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:19:11 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 08:19:11 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 08:19:11 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 08:19:11 INFO  HomePageTest 40 - web
+2021-02-10 08:19:11 INFO  HomePageTest 41 - qa
+2021-02-10 08:19:11 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 08:19:14 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (7a3fbd0a2d25ada072ec842c435ebabc)] -> xpath: //input[@id='username']]
+2021-02-10 08:19:20 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (7a3fbd0a2d25ada072ec842c435ebabc)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:19:20 INFO  poHomePage 61 - My Profile found
+2021-02-10 08:19:20 INFO  poHomePage 61 - My Settings found
+2021-02-10 08:19:20 INFO  poHomePage 61 - Developer Console found
+2021-02-10 08:19:20 INFO  poHomePage 61 - Switch to Lightning Experience found
+2021-02-10 08:19:20 INFO  poHomePage 61 - Logout found
+2021-02-10 08:19:22 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (7a3fbd0a2d25ada072ec842c435ebabc)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 08:19:24 INFO  HomePageTest 54 - TC5_verifyUserMenuDropdown PASSED
+2021-02-10 11:24:00 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 11:24:00 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 11:24:00 INFO  LoginPageTest 40 - web
+2021-02-10 11:24:00 INFO  LoginPageTest 41 - qa
+2021-02-10 11:24:00 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 11:24:03 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (bb0263d1357fb31ee8bb86eb5fd8c179)] -> xpath: //input[@id='username']]
+2021-02-10 11:24:05 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (bb0263d1357fb31ee8bb86eb5fd8c179)] -> id: error]
+2021-02-10 11:24:05 INFO  BrowserUtilities 122 - Displayed [[ChromeDriver: chrome on MAC (bb0263d1357fb31ee8bb86eb5fd8c179)] -> id: error]
+2021-02-10 11:24:05 INFO  LoginPageTest 49 - TC01_LoginErrorMessage() PASSED
+2021-02-10 11:24:51 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 11:24:51 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 11:24:51 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 11:24:51 INFO  LoginPageTest 40 - web
+2021-02-10 11:24:51 INFO  LoginPageTest 41 - qa
+2021-02-10 11:24:51 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 11:24:54 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:24:55 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> id: error]
+2021-02-10 11:24:55 INFO  BrowserUtilities 122 - Displayed [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> id: error]
+2021-02-10 11:24:55 INFO  LoginPageTest 49 - TC01_LoginErrorMessage() PASSED
+2021-02-10 11:24:55 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:00 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 11:25:00 INFO  LoginPageTest 57 - TC02_loginToSFDCWithValidCredentials PASSED
+2021-02-10 11:25:00 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:06 INFO  LoginPageTest 80 - TC4_A_rememberMeChkBox PASSED
+2021-02-10 11:25:06 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:07 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:07 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:08 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:08 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:09 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:09 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:10 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:11 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:11 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 11:25:12 INFO  BrowserUtilities 88 - ******Element NOT Displayed : [[ChromeDriver: chrome on MAC (e2d4c040eab8112ff1fd56452be3bd13)] -> xpath: //input[@id='username']]
+2021-02-10 14:11:00 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 14:11:00 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/stringData.properties
+2021-02-10 14:12:52 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 14:12:52 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 14:12:52 INFO  ProfilePageTest 40 - web
+2021-02-10 14:12:52 INFO  ProfilePageTest 41 - qa
+2021-02-10 14:12:52 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 14:12:55 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (4ce66b2237c8ee892c1270ed61659554)] -> xpath: //input[@id='username']]
+2021-02-10 14:12:59 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (4ce66b2237c8ee892c1270ed61659554)] -> xpath: //a[@href='/home/home.jsp']]
+2021-02-10 15:19:47 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 15:19:47 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 15:19:47 INFO  ProfilePageTest 40 - web
+2021-02-10 15:19:47 INFO  ProfilePageTest 41 - qa
+2021-02-10 15:19:47 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 15:23:27 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 15:23:27 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 15:23:27 INFO  ProfilePageTest 40 - web
+2021-02-10 15:23:27 INFO  ProfilePageTest 41 - qa
+2021-02-10 15:23:27 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 15:23:30 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (4a149a7284bf14cbf3742b4c714b085c)] -> xpath: //input[@id='username']]
+2021-02-10 15:25:20 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 15:25:20 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 15:25:20 INFO  ProfilePageTest 40 - web
+2021-02-10 15:25:20 INFO  ProfilePageTest 41 - qa
+2021-02-10 15:25:20 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 15:25:23 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (1acd9f54da5476a10b32824922f4b7e3)] -> xpath: //input[@id='username']]
+2021-02-10 15:30:40 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 15:30:40 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 15:30:40 INFO  ProfilePageTest 40 - web
+2021-02-10 15:30:40 INFO  ProfilePageTest 41 - qa
+2021-02-10 15:30:40 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 15:30:43 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (a2b82963933f6baf938db2b6e35f83bc)] -> xpath: //input[@id='username']]
+2021-02-10 15:41:40 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 15:41:40 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 15:41:40 INFO  ProfilePageTest 40 - web
+2021-02-10 15:41:40 INFO  ProfilePageTest 41 - qa
+2021-02-10 15:41:40 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 15:41:42 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (3f5fd2e7ab68073d730d2135d41067be)] -> xpath: //input[@id='username']]
+2021-02-10 15:43:17 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 15:43:17 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 15:43:17 INFO  ProfilePageTest 40 - web
+2021-02-10 15:43:17 INFO  ProfilePageTest 41 - qa
+2021-02-10 15:43:17 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 15:43:20 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (2015add92db0574292f77d9b6e164e65)] -> xpath: //input[@id='username']]
+2021-02-10 15:43:58 INFO  ProfilePageTest 57 - TC6_verifyUserEditProfileFunctionality() PASSED
+2021-02-10 15:53:31 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 15:53:31 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 15:53:31 INFO  ProfilePageTest 40 - web
+2021-02-10 15:53:31 INFO  ProfilePageTest 41 - qa
+2021-02-10 15:53:31 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 15:53:34 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (f6697d428410e843254d37a100563a8e)] -> xpath: //input[@id='username']]
+2021-02-10 15:54:09 INFO  ProfilePageTest 61 - TC6_verifyUserEditProfileFunctionality() PASSED
+2021-02-10 16:14:28 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 16:14:28 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 16:14:28 INFO  ProfilePageTest 40 - web
+2021-02-10 16:14:28 INFO  ProfilePageTest 41 - qa
+2021-02-10 16:14:28 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 16:35:21 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 16:35:21 INFO  CommonUtilities 121 - Directory is deleted : /Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/target/surefire-reports/screenshots
+2021-02-10 16:35:21 INFO  ProfilePageTest 40 - web
+2021-02-10 16:35:21 INFO  ProfilePageTest 41 - qa
+2021-02-10 16:35:21 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 16:35:24 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (8501fccacd63dc68c8e2cb610e815403)] -> xpath: //input[@id='username']]
+2021-02-10 16:36:02 INFO  ProfilePageTest 63 - TC6_verifyUserEditProfileFunctionality() PASSED
+2021-02-10 16:37:55 INFO  CommonUtilities 54 - Current dir using System:/Users/sandhya/Desktop/Oxyeclipse-workspace/Framework_POM_Hybrid/src/main/java/com/sf/properties/testdata.properties
+2021-02-10 16:37:55 INFO  ProfilePageTest 40 - web
+2021-02-10 16:37:55 INFO  ProfilePageTest 41 - qa
+2021-02-10 16:37:55 INFO  BrowserUtilities 41 - Launching Browser
+2021-02-10 16:37:58 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on MAC (6cda20d88328ee41828c9ba4c422e9ba)] -> xpath: //input[@id='username']]
